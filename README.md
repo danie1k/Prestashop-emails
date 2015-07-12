@@ -1,3 +1,4 @@
+```
 1. Dla każdego sklepu trzeba ustawić opcję "Kolor maili" w Panelu Admina,
    (Preferencje > Szablony) ma to realny wpływ na wygląd wiadomości.
 
@@ -115,4 +116,4 @@
    # E-maile dla modułu sendtoafriend
 
    01. send_to_a_friend:.............................................. Twój znajomy poleca Ci produkt
-
+```
