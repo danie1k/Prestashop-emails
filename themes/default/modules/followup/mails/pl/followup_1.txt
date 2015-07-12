@@ -1,0 +1,20 @@
+Witaj {firstname}!
+
+Podczas ostatniej wizyty w naszym sklepie nie ukończyłeś/-aś zamówienia.
+ 
+Twój koszyk został zapisany, możesz w każdej chwili wrócić i złożyć zamówienie 
+na stronie: {shop_url}.
+ 
+Na zachętę, mamy przyjemność przyznać Ci kupon rabatowy, 
+który będzie można wykorzystać przy dowolnym zamówieniu! Nie trać czasu!
+
+Kod rabatowy:.. {voucher_num}
+Wartość rabatu: {amount}%
+Ważność kodu:.. {days} dni
+ 
+Przy składaniu zamówienia, wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

@@ -1,0 +1,13 @@
+Witaj {firstname}!
+ 
+Wystawiliśmy dla Ciebie kupon rabatowy, który będzie można wykorzystać 
+przy dowolnym zamówieniu.
+ 
+Kod rabatowy: {voucher_num}
+ 
+Przy składaniu zamówienia, wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

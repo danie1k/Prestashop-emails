@@ -1,0 +1,10 @@
+Witaj!
+ 
+Nowa wiadomość od klienta dotycząca zamówienia numer #{id_order}:
+ 
+{message}
+
+
+--
+Pozdrawiamy,
+{shop_name}

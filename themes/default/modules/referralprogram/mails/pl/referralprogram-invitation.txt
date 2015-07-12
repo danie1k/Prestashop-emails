@@ -1,0 +1,18 @@
+Witaj {firstname_friend}!
+ 
+Twój znajomy, {firstname} {lastname} zaprasza Cię do naszego sklepu internetowego {shop_name}!
+ 
+Skorzystaj z zaproszenia już dziś i *odbierz kupon rabatowy o wartości {discount}!*
+Łap promocje, śledź nowości i zdobywaj kolejne rabaty dzięk naszemu 
+programowi partnerskiemu!
+ 
+Wystarczy kliknąć w poniższy link, aby założyć konto i robić zakupy:
+{link}
+ 
+Pamiętaj, aby przy rejestracji podać e-mail znajomego, który Cię zaprosił:
+{email}
+
+
+--
+Pozdrawiamy,
+{shop_name}

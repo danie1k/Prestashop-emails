@@ -1,0 +1,10 @@
+Witaj!
+ 
+Otrzymałeś nowe ostrzeżenie w logach, w swoim Panelu Administracyjnym.
+ 
+Szczegóły znajdziesz w sekcji "Zaawansowane" » "Logi"
+ 
+ 
+--
+Pozdrawiamy,
+{shop_name}

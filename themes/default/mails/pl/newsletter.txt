@@ -1,0 +1,8 @@
+Biuletyn Informacyjny {shop_name}:
+
+{message}
+
+
+--
+Pozdrawiamy,
+{shop_name}

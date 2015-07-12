@@ -1,0 +1,28 @@
+Witaj {firstname}!
+ 
+Zarejestrowaliśmy Twoje nowe zamówienie, numer: #{id_order}.
+ 
+Oczekujemy na wpłatę przelewem tradycyjnym.
+Zamówienie zostanie zrealizowane, gdy tylko zaksięgujemy wpłatę od Ciebie.
+ 
+Dane do wpłaty:
+
+Numer konta: {bankwire_owner}
+Kwota:...... {total_paid}
+Tytułem:.... Zamówienie #{id_order}
+Bank:....... {bankwire_address}
+Dane odbiorcy:
+{bankwire_details}
+
+ 
+Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:
+Moje konto » Historia zamówień - {history_url}
+ 
+Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny 
+pod adresem:
+{guest_tracking_url}?id_order={order_name}
+
+
+--
+Pozdrawiamy,
+{shop_name}

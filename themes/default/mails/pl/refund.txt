@@ -1,0 +1,16 @@
+Witaj {firstname}!
+ 
+Płatność za Twoje zamówienie #{id_order} została zwrócona.
+ 
+ 
+Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:
+Moje konto » Historia zamówień - {history_url}
+ 
+Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny 
+pod adresem:
+{guest_tracking_url}?id_order={order_name}
+
+
+--
+Pozdrawiamy,
+{shop_name}

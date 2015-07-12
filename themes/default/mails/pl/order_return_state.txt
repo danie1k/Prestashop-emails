@@ -1,0 +1,13 @@
+Witaj {firstname}!
+ 
+Status zwrotu numer #{id_order_return} został zmieniony na:
+{state_order_return}
+ 
+Bieżący stan swoich zamówień i zwrotów możesz śledzić na naszej stronie, 
+w sekcji:
+Moje konto - {my_account_url}
+
+
+--
+Pozdrawiamy,
+{shop_name}

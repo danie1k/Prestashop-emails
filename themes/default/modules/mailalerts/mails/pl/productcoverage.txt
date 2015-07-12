@@ -1,0 +1,4 @@
+Produkt "{product}" w sklepie {shop_name} jest na wyczerpaniu.
+ 
+Stan magazynowy spadł do ilości ostrzegawczej: {warning_coverage} sztuk.
+Aktualna ilość sztuk w systemie wynosi:....... {current_coverage}.

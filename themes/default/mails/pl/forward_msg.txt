@@ -1,0 +1,12 @@
+Pracownik {employee} przekazał do Ciebie wiadomość:
+ 
+Historia konwersacji: 
+{messages}
+
+Komentarz pracownika: 
+"{comment}"
+
+
+--
+Pozdrawiamy,
+{shop_name}

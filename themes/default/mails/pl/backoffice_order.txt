@@ -1,0 +1,11 @@
+Witaj {firstname}!
+ 
+W sklepie {shop_name} zostało utworzone dla Ciebie nowe zamówienie.
+ 
+Przejdź pod adres: {order_link},
+aby sfinalizować płatność.
+ 
+ 
+--
+Pozdrawiamy,
+{shop_name}

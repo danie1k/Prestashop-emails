@@ -1,0 +1,11 @@
+Witaj!
+
+Właśnie utworzyłeś listę życzeń o nazwie "{wishlist}". Poniżej znajdziesz 
+bezspośredni link do niej, którym możesz podzielić się ze znajomymi.
+
+{message}
+
+
+--
+Pozdrawiamy,
+{shop_name}

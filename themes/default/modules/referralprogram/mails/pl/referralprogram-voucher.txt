@@ -1,0 +1,16 @@
+Witaj {firstname}!
+ 
+W zamian za uczestnictwo w programie partnerskim, przyznajemy Ci obiecany 
+kupon rabatowy, który będzie można wykorzystać przy dowolnym zamówieniu.
+ 
+Pamiętaj, zapraszając swoich znajomych, zdobywasz kolejne rabaty!
+
+Kod rabatowy: {voucher_num}
+Wartość:..... {voucher_amount}
+ 
+Przy składaniu zamówienia, wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

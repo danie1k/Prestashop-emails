@@ -1,0 +1,13 @@
+Witaj!
+
+Mamy przyjemność zawiadomić, że interesujący Cię produkt: 
+
+&quot;<a href="{product_link}">{product}</a>&quot;,
+
+jest znów dostępny w sklepie {shop_name}!
+Uzupełniliśmy zapasy magazynowe i zapraszamy do zakupów!
+
+
+--
+Pozdrawiamy,
+{shop_name}

@@ -1,0 +1,10 @@
+Wiadomość od klienta sklepu;
+ 
+E-mail klienta: {email}
+Wiadomość: 
+{message}
+
+
+--
+Pozdrawiamy,
+{shop_name}

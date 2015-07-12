@@ -1,0 +1,26 @@
+Witaj {firstname}!
+ 
+Zarejestrowaliśmy Twoje nowe zamówienie, numer: #{id_order}.
+ 
+Oczekujemy na wpłatę czekiem.
+Zamówienie zostanie zrealizowane, gdy tylko otrzymamy wpłatę od Ciebie.
+ 
+Dane do wpłaty:
+
+Odbiorca czeku: {cheque_name}
+Kwota:......... {total_paid}
+Wyślij na adres: 
+{cheque_address_html}
+
+ 
+Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:
+Moje konto » Historia zamówień - {history_url}
+ 
+Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny 
+pod adresem:
+{guest_tracking_url}?id_order={order_name}
+
+
+--
+Pozdrawiamy,
+{shop_name}

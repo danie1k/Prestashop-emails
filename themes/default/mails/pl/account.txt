@@ -1,0 +1,18 @@
+Witaj {firstname}!
+ 
+Poniżej znajdziesz dane swojego konta w sklepie {shop_name}:
+ 
+Adres e-mail: {email}
+Hasło:....... {passwd}
+ 
+Przypominamy podstawowe zasady bezpieczeństwa:
+- przechowuj dane konta w bezpiecznym miejscu;
+- nie podawaj nikomu swojego hasła,
+- regularnie zmieniaj swoje hasło,
+- w razie podejrzeń, że ktoś używa twojego konta nielegalnie - powiadom nas 
+  o tym fakcie i zmień natychmiast hasło do konta.
+ 
+ 
+--
+Pozdrawiamy,
+{shop_name}

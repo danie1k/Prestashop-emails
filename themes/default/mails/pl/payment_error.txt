@@ -1,0 +1,13 @@
+Witaj {firstname}!
+ 
+Wystąpiły problemy z realizacją Twojej płatności za zamówienie #{id_order}!
+ 
+Prosimy o niezwłoczny kontakt w celu wyjaśnienia sytuacji.
+ 
+Aktualne dane kontaktowe można znaleźć na naszej stronie www:
+{shop_url}
+
+
+--
+Pozdrawiamy,
+{shop_name}

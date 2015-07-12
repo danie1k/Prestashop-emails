@@ -1,0 +1,12 @@
+Witaj!
+
+Nasz klient, {firstname} {lastname} zaprasza Cię zaprasza Cię do odwiedzenia 
+swojej listy życzeń w sklepie {shop_name}.
+
+Aby przejść do listy życzeń "{wishlist}", kliknij w link poniżej:
+{message}
+
+
+--
+Pozdrawiamy,
+{shop_name}

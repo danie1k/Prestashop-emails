@@ -1,0 +1,38 @@
+Witaj {firstname}!
+ 
+Dziękujemy za złożenie zamówienia w naszym sklepie.
+Poniżej znajdziesz więcej szczegółów.
+ 
+Data zamówienia: {date}
+Nr zamówienia:.. #{id_order}
+ID zamówienia:.. {order_name}
+Płatność:....... {payment}
+Dostawa:........ {carrier}
+
+Adres dostawy:  
+{delivery_block_txt}
+
+Adres do faktury: 
+{invoice_block_txt}
+ 
+
+Podsumowanie zamówionych produktów:
+  Razem produkty:..... {total_products}
+  Razem rabaty:....... {total_discounts}
+  Dodatkowe pakowanie: {total_wrapping}
+  Dostawa:............ {total_shipping}
+  --------------------
+  Razem do zapłaty:... {total_paid}
+ 
+ 
+Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:
+Moje konto » Historia zamówień - {history_url}
+ 
+Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny 
+pod adresem:
+{guest_tracking_url}?id_order={order_name}&email={email}
+
+
+--
+Pozdrawiamy,
+{shop_name}

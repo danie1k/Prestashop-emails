@@ -1,0 +1,16 @@
+Witaj!
+ 
+Twoja wiadomość została pomyślnie przesłana.
+Odpowiemy w najkrótszym możliwym czasie.
+ 
+Treść wiadomości: 
+{message}
+
+Dotyczy zamówienia: {order_name}
+Załączone pliki:    
+{attached_file}
+
+
+--
+Pozdrawiamy,
+{shop_name}

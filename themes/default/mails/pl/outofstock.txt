@@ -1,0 +1,22 @@
+Witaj {firstname}!
+ 
+Mamy ważną wiadomość dotyczącą zamówionych przez Ciebie produktów.
+W zamówieniu numer #{id_order} są produkty, których aktualnie nie mamy 
+w magazynie i oczekujemy na dostawę. Może to spowodować niewielkie opóźnienie 
+w realizacji wysyłki.
+ 
+Będziemy na bieżąco informować Cię o stanie realizacji tego zamówienia.
+Przepraszamy za niedogodności.
+
+ 
+Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:
+Moje konto » Historia zamówień - {history_url}
+ 
+Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny 
+pod adresem:
+{guest_tracking_url}?id_order={order_name}
+
+
+--
+Pozdrawiamy,
+{shop_name}

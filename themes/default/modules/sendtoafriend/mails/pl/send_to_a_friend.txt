@@ -1,0 +1,17 @@
+Witaj {name}!
+ 
+Twój znajomy, {customer} poleca Ci jeden z produktów ze sklepu {shop_name}: 
+ 
+{product}
+ 
+Aby przejść do strony produktu, kliknij w link poniżej:
+{product_link}
+ 
+ 
+Zapraszamy do odwiedzin i zakupów, oferujemy wiele produktów, które mogą Cię 
+zaciekawić. A dla naszych lojalnych klientów oferujemy liczne rabaty i promocje!
+
+
+--
+Pozdrawiamy,
+{shop_name}

@@ -1,0 +1,9 @@
+Witaj!
+
+Aby potwierdzić rejestrację w newsletterze, kliknij w poniższy link:
+{verif_url}
+ 
+ 
+--
+Pozdrawiamy,
+{shop_name}

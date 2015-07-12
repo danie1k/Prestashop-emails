@@ -1,0 +1,14 @@
+Witaj!
+ 
+Nasz pracownik odpowiedział na Twoją wiadomość. Treść odpowiedzi:
+
+{reply}
+ 
+Prosimy nie odpowiadać na ten e-mail, nie otrzymamy takiej odpowiedzi!
+Aby przesłać nam odpowiedź, użyj poniższego linku:
+{link}
+
+
+--
+Pozdrawiamy,
+{shop_name}

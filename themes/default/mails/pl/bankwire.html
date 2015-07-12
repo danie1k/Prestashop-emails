@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   <title>Zapłać przelewem za nowe zamówienie!</title>
+</head>
+<body style="margin: 0; padding: 0;">
+   <table width="100%" border="0" style="background-color: #FFFFFF;">
+      <tr>
+         <td align="center" style="padding: 5px 0 10px 0;"><a title="{shop_name}" href="{shop_url}"><img style="border:0;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+      </tr>
+      <tr>
+         <td align="center">
+
+            <table width="600" align="center" style="border:1px solid {color}; background-color: #F7F7F7; padding: 5px; font-size: 10pt">  
+               <tr>
+                  <td align="left" style="background-color: {color}; color: #FFF">&nbsp;Witaj <strong>{firstname}</strong>!</td>
+               </tr>
+               <tr>
+                  <td>&zwnj;</td>
+               </tr>
+               <tr>
+                  <td align="left">Zarejestrowaliśmy Twoje nowe zamówienie, numer: <b>#{id_order}</b>.</td>
+               </tr>
+               <tr>
+                  <td>&zwnj;</td>
+               </tr>
+               <tr>
+                  <td align="center">Oczekujemy na wpłatę <b>przelewem tradycyjnym</b>.<br>Zamówienie zostanie zrealizowane, gdy tylko zaksięgujemy wpłatę od Ciebie.</td>
+               </tr>
+               <tr>
+                  <td>&zwnj;</td>
+               </tr>
+               <tr>
+                  <td align="left">
+                     <b>Dane do wpłaty:</b><br>
+                     <table width="100%" align="center" border="0" style="font-size: 8pt;">  
+                        <tr>  
+                           <td width="25%" align="right"><b>Numer konta: </b></td>
+                           <td width="75%" align="left">{bankwire_owner}</td>
+                        </tr>
+                        <tr>  
+                           <td width="25%" align="right"><b>Bank: </b></td>
+                           <td width="75%" align="left">{bankwire_address} </td>
+                        </tr>
+                        <tr>  
+                           <td width="25%" align="right"><b>Dane odbiorcy: </b></td>
+                           <td width="75%" align="left">{bankwire_details}</td>
+                        </tr>
+                        <tr>
+                           <td>&zwnj;</td>
+                        </tr>
+                        <tr>  
+                           <td width="25%" align="right"><b>Kwota: </b></td>
+                           <td width="75%" align="left">{total_paid}</td>
+                        </tr>
+                        <tr>  
+                           <td width="25%" align="right"><b>Tytułem: </b></td>
+                           <td width="75%" align="left">Zamówienie #{id_order}</td>
+                        </tr>
+                     </table>
+                  </td>
+               </tr>
+               <tr>
+                  <td>&zwnj;</td>
+               </tr>
+               <tr>
+                  <td align="center">
+                     Bieżący stan zamówienia możesz śledzić na naszej stronie, w sekcji:<br>
+                     <a href="{my_account_url}">Moje konto</a> &raquo; <b><a href="{history_url}">Historia zamówień</a></b>.
+                  </td>
+               </tr>
+               <tr>
+                  <td>&zwnj;</td>
+               </tr>
+               <tr>
+                  <td align="center"><small>
+                     Jeśli złożono zamówienie bez rejestracji, stan zamówienia jest dostępny pod adresem:<br>
+                     <a href="{guest_tracking_url}?id_order={order_name}">{guest_tracking_url}?id_order={order_name}</a>
+                  </small></td>
+               </tr>
+            </table>
+
+         </td>
+      </tr>
+      <tr>
+         <td align="center">
+            <table width="600" align="center" border="0" style="padding: 5px;">  
+               <tr>
+                  <td align="right"><small>Pozdrawiamy,<br><a href="{shop_url}">{shop_name}</a></small></td>
+               </tr>  
+            </table>
+         </td>
+      </tr>
+   </table>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Witaj {firstname}!
+ 
+Rozpoczęliśmy procedurę zwrotu, dotyczącą zamówienia numer #{id_order}.
+ 
+Więcej szczegółów możesz znaleźć na naszej stronie, w sekcji:
+Moje konto » Moje pokwitowania.
+
+
+--
+Pozdrawiamy,
+{shop_name}

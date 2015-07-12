@@ -1,0 +1,20 @@
+Witaj {firstname}!
+
+Piszemy do Ciebie, ponieważ nie widzieliśmy Cię od {days_threshold} dni 
+i bardzo się stęskniliśmy.
+ 
+Zapraszamy do ponownych odwiedzin, przekonaj się sam/-a 
+ile dzieje się w sklepie {shop_name}!
+Na zachętę, mamy przyjemność przyznać Ci kupon rabatowy, 
+który będzie można wykorzystać przy dowolnym zamówieniu! Nie trać czasu!
+ 
+Kod rabatowy:.. {voucher_num}
+Wartość rabatu: {amount}%
+Ważność kodu:.. {days} dni
+ 
+Przy składaniu zamówienia, wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

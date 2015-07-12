@@ -1,0 +1,14 @@
+Witaj {firstname}!
+ 
+Dzięki złożeniu zamówienia #{id_order} otrzymałeś(aś) od nas rabat, 
+który będzie można wykorzystać przy kolejnym zamówieniu.
+ 
+Kod rabatowy: {voucher_num}
+Kwota rabatu: {voucher_amount}
+ 
+Przy następnym zamówieniu wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

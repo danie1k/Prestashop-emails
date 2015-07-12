@@ -1,0 +1,8 @@
+Witaj!
+ 
+To jest testowy e-mail z Twojego sklepu.
+ 
+ 
+--
+Pozdrawiamy,
+{shop_name}

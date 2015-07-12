@@ -1,0 +1,20 @@
+Witaj!
+
+Twój znajomy, {sponsored_firstname} {sponsored_lastname} skorzystał z zaproszenia, 
+zarejestrował konto i złożył zamówienie w sklepie {shop_name}.
+ 
+W zamian za to, wystawiliśmy dla Ciebie kupon rabatowy, 
+który będzie można wykorzystać przy dowolnym zamówieniu
+ 
+Pamiętaj, zapraszając kolejnych znajomych, zdobywasz kolejne rabaty!
+ 
+ 
+Kod rabatowy: {discount_name}
+Wartość:..... {discount_display}
+ 
+Przy składaniu zamówienia, wpisz ten kod do koszyka przed dokonaniem płatności.
+
+
+--
+Pozdrawiamy,
+{shop_name}

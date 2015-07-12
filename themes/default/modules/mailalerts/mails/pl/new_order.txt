@@ -1,0 +1,34 @@
+Witaj {firstname}!
+ 
+Nowe zamówienie zostało dokonane w Twoim sklepie "{shop_name}".
+ 
+Klient: {firstname} {lastname} ({email})
+
+ 
+Data zamówienia: {date}
+Nr referencyjny: {order_name}
+Płatność:....... {payment}
+Dostawa:........ {carrier}
+ 
+Wiadomość od klienta:
+{message}
+ 
+Adres dostawy:  
+{delivery_block_txt}
+
+Adres do faktury: 
+{invoice_block_txt}
+ 
+
+Podsumowanie zamówionych produktów:
+  Razem produkty:..... {total_products}
+  Razem rabaty:....... {total_discounts}
+  Dodatkowe pakowanie: {total_wrapping}
+  Dostawa:............ {total_shipping}
+  --------------------
+  Razem do zapłaty:... {total_paid}
+ 
+
+--
+Pozdrawiamy,
+{shop_name}

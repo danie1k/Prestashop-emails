@@ -1,0 +1,6 @@
+Produkt "{product}" w sklepie {shop_name} jest na wyczerpaniu.
+ 
+Stan magazynowy spadł do ilości ostrzegawczej: {last_qty} sztuk.
+Aktualna ilość sztuk w systemie wynosi:....... {qty}.
+ 
+Przed odnowieniem zapasów, radzimy Ci odwiedzić stronę produktu w Panelu Administracyjnym.
